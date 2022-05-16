@@ -1,0 +1,8 @@
+Epoch : 0 	 Train Loss : 438.78857421875 	 Valid Loss : 204.84886169433594
+Epoch : 1 	 Train Loss : 203.6998291015625 	 Valid Loss : 174.8029022216797
+Epoch : 2 	 Train Loss : 237.42933654785156 	 Valid Loss : 265.43756103515625
+Epoch : 3 	 Train Loss : 270.5984191894531 	 Valid Loss : 239.26931762695312
+Epoch : 4 	 Train Loss : 251.41171264648438 	 Valid Loss : 221.40480041503906
+Epoch : 5 	 Train Loss : 236.0571746826172 	 Valid Loss : 208.88922119140625
+Epoch : 6 	 Train Loss : 225.27584838867188 	 Valid Loss : 197.9057159423828
+Epoch : 7 	 Train Loss : 217.75718688964844 	 Valid Loss : 190.96986389160156
